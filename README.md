@@ -3,7 +3,7 @@
 ## Overview of Analysis
 * We have been tasked with analyzing the Amazon Vine Program which "allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review."
 * We were asked to look at our choice of data set provided Amazon. The product we chose was "Shoes".
-* Once we used Pyspark to perform the ETL process and extract, transform, connect to an AWS RDS instance and then load in to pgAdmin.
+* We used Pyspark to perform the ETL process and extract, transform, connect to an AWS RDS instance and then load in to pgAdmin.
 * We then used pandas to determine if there is a bias toward favorable reviews from Vine members in our "Shoe" dataset.
 
 ## Results
